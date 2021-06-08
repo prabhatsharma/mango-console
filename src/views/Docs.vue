@@ -1,5 +1,10 @@
 <template>
-  <div class="docs"></div>
+  <div class="docs">
+    https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html
+
+    https://blevesearch.com/docs/Query-String-Query/
+    
+  </div>
 </template>
 
 <script>
