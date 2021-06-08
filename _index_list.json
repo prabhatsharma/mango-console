@@ -1,0 +1,15 @@
+
+
+[
+  {
+    "index_name": "lyrics",
+    "type": "text",
+    "options": {
+      "indexing": {
+        "record": "position",
+        "tokenizer": "default"
+      },
+      "stored": true
+    }
+  }
+]
